@@ -5,9 +5,10 @@
  */
 
 body {
-  font-family: 'Noto Sans TC', sans-serif;, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
+  <link href="https://fonts.googleapis.com/css?family=Noto+Sans+TC|Srisakdi" rel="stylesheet">
+ font-family: 'Srisakdi', cursive;
+font-family: 'Noto Sans TC', sans-serif;
   padding-top: 54px;
-  <link href="https://fonts.googleapis.com/css?family=Noto+Sans+TC" rel="stylesheet">
   color: #71000b;
 }
 
@@ -31,10 +32,8 @@ h6 {
 }
 
 h1 {
-  font-family: 'Srisakdi', cursive;
   font-size: 6rem;
   line-height: 5.5rem;
-  <link href="https://fonts.googleapis.com/css?family=Srisakdi" rel="stylesheet">
 }
 
 h2 {
