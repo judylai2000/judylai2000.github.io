@@ -5,9 +5,7 @@
  */
 
 body {
-  <link href="https://fonts.googleapis.com/css?family=Noto+Sans+TC|Srisakdi" rel="stylesheet">
- font-family: 'Srisakdi', cursive;
-font-family: 'Noto Sans TC', sans-serif;
+ font-family: 'Noto Sans TC', sans-serif;
   padding-top: 54px;
   color: #71000b;
 }
@@ -18,7 +16,7 @@ font-family: 'Noto Sans TC', sans-serif;
     padding-left: 17rem;
   }
 }
-
+<link href="https://fonts.googleapis.com/css?family=Noto+Sans+TC" rel="stylesheet">
 h1,
 h2,
 h3,
