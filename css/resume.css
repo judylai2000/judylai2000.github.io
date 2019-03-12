@@ -3,20 +3,21 @@
  * Copyright 2013-2019 Start Bootstrap
  * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-resume/blob/master/LICENSE)
  */
-
+html{
+ <link href="https://fonts.googleapis.com/css?family=Noto+Sans+TC" rel="stylesheet">
+}
 body {
  font-family: 'Noto Sans TC', sans-serif;
   padding-top: 54px;
   color: #71000b;
 }
-
 @media (min-width: 992px) {
   body {
     padding-top: 0;
     padding-left: 17rem;
   }
 }
-<link href="https://fonts.googleapis.com/css?family=Noto+Sans+TC" rel="stylesheet">
+
 h1,
 h2,
 h3,
