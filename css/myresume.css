@@ -5,3 +5,7 @@ body{
 h1{
        font-family: 'Noto Sans TC', sans-serif;
 }
+
+.text-primary{
+       color:"#c5961d;"
+}
