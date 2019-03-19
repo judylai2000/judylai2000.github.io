@@ -1,5 +1,5 @@
 body{
-       font-family: 'Noto Sans TC', sans-serif;'Srisakdi', cursive;
+       font-family: 'Noto Sans TC', sans-serif;
 }
 
 h1{
@@ -7,9 +7,10 @@ h1{
 }
 
 .text-primary{
-       color: #c5961d;
        font-family: 'Srisakdi', cursive;
+       color: #c5961d;
 }
+
 background-color: #574015;
 background-image: url("https://www.transparenttextures.com/patterns/climpek.png");
 /* This is mostly intended for prototyping; please download the pattern and re-host for production environments. Thank you! */
